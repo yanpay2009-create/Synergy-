@@ -1,0 +1,8 @@
+{
+  "name": "18. SYNERGY FLOW V30",
+  "description": "Premium Affiliate Marketing Platform V1.0. A high-conversion ecosystem combining AI content tools with a tiered commission engine.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
